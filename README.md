@@ -1,3 +1,1 @@
-# Aula-10-11-20
-
-exemplo de repositório público.
+Algumas soluções do site URI.

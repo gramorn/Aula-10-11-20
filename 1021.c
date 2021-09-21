@@ -26,6 +26,10 @@ int main() {
     dois = valor / 2;
     valor = valor % 2;
 
+
+
+    
+
     um = valor;
 
     valor2 = base2;
